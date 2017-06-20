@@ -1,0 +1,7 @@
+{
+    "plugins": ["sectionx", "mcqx@git+https://github.com/leekiwonlkw/gitbook-plugin-mcqx.git", "audio_image"],
+    "language": "ko",
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
